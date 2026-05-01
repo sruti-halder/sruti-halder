@@ -5,6 +5,8 @@ MSc Physics · NIT Rourkela
 Researcher working on machine learning for materials science, with a focus on sodium-ion battery electrode property prediction. My work uses the Materials Project database with Magpie, domain, and structural features to predict voltage, capacity, and volume change using ensemble ML models.
 
 Research interests: ML in materials science · energy storage systems · computational physics · data-driven materials discovery
+
+📫 LinkedIn: https://www.linkedin.com/in/sruti-halder
 <!--
 **sruti-halder/sruti-halder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
