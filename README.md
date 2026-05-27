@@ -1,4 +1,4 @@
-## Hi, I'm Sruti Halder 👋
+## Hi, I'm Sruti 👋
 
 MSc Physics · NIT Rourkela
 
